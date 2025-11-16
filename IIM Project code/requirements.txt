@@ -1,7 +1,5 @@
-streamlit==1.24.1
-openai>=0.27.0
-sqlalchemy>=2.0
-pydantic
+streamlit
+sqlalchemy
 PyPDF2
-tqdm
 python-dotenv
+openai
